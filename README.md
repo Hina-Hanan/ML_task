@@ -52,8 +52,7 @@ The notebook contains:
 
 1. Clone the repository
 2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
+   - pip install -r requirements.txt
 3. Open the notebook
 4. Run all cells to generate the dataset, train the model, and visualize predictions.
 
