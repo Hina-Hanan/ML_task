@@ -1,6 +1,6 @@
 # Single Pixel Coordinate Prediction
 
-**Author:** Hina Hanan  
+**Prepared by:** Hina Hanan  
 **Date:** 20-Jan-2026  
 
 ---
